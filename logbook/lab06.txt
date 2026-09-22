@@ -1,0 +1,11 @@
+LAB 6 LOGBOOK - himanshu kumar - E26B07F0550 
+SETUP: my working directory is logbook
+T1 prediction: I think ls / will show about 15 items
+T1: /bin holds essential executable programs/commands
+T1: /dev holds device files
+T1: / means root directory , ~ means home directory , . means current directory
+T1: the OS groups files by folders
+T2 prediction: ./deploy will not run  because there is no executable permission given to it
+T2 prediction: appending after u-w will remove -w  because it will remove write permission
+T2: -rw-r--r-- written in numbers is 644
+T2: ./deploy failed at first because of the executable permission
